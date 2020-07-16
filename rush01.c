@@ -6,13 +6,13 @@
 /*   By: mbkomaqp <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/15 12:03:53 by mbkomaqp          #+#    #+#             */
-/*   Updated: 2020/07/15 12:23:43 by mbkomaqp         ###   ########.fr       */
+/*   Updated: 2020/07/16 14:06:21 by mbkomaqp         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
 
-void	ft_putchar(char c);
+extern	void	ft_putchar(char c);
 
 void	mid(int x, int y) 
 {
