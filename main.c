@@ -6,9 +6,15 @@
 /*   By: mbkomaqp <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/15 12:01:04 by mbkomaqp          #+#    #+#             */
-/*   Updated: 2020/07/15 12:02:06 by mbkomaqp         ###   ########.fr       */
+/*   Updated: 2020/07/16 13:12:19 by mbkomaqp         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include <unistd.h>
+
+void	ft_putchar(char c);
+
+void	rush(int x, int y);
 
 int		main()
 {
